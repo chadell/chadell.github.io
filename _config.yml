@@ -21,10 +21,7 @@ plugins:
 disqus:
   shortname: chadell
 
-# TODO
-
-
-# google_analytics: UA-NNNNNNNN-N
+google_analytics: UA-119143430-1
 
 
 # Exclude from processing.
