@@ -32,7 +32,7 @@ After having worked on these presentations, I can enumerate some key takeaways f
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vQFUkYeKAIZQLiCoPZ1AgPFKgtsjE_U7wipI5dbHvJYXqn3Ef2pL_ggfiUU3gu0QKpHU4MZTqdzsNjr/pub?w=350&h=360)
 
-Congrats, you have reached the end of this long post, but hopefully some of my ideas have helped you on your personal journey. As an extra, I am going to share my [learning]({{ site.baseurl }}{% post_url /refs %}) list with you, where I've been tracking the most relevant blogs, articles, courses, etc. I've used (or I'm planning to) regarding networking, coding, cloud, linux and culture topics.
+Congrats, you have reached the end of this long post, but hopefully some of my ideas have helped you on your personal journey. As an extra, I am going to share my [learning](http://chadell.github.io/refs) list with you, where I've been tracking the most relevant blogs, articles, courses, etc. I've used (or I'm planning to) regarding networking, coding, cloud, linux and culture topics.
 
 I wouldn't end this retrospective without naming just a short list of people who have helped me on my personal journey (with a lot of patience). Thanks to Daniel Giribet, Marc Morata, Daniel Beneyto, Daniel Caballero, Jaume Pinyol, Roger Sole, Valentin Gutierrez, Ulises Olivenza, Adam Stevko, Paco Orozco, and Diego Pomares (in chronological order), amongst many others that I can not mentioning here as the list goes on and on.
 
