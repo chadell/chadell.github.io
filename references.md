@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "My learning materials"
-date:   2018-05-11 14:52:14 +0200
-categories: learning networking coding cloud linux
+layout: page
+title: References
+permalink: /ref/
 ---
+
 # Learning materials
 
 Keeping track of your learning process is quite difficult when you are moveing from one topic to another. This repository is just a way to remember the best material I've been using since 2016 for learning and fun.
