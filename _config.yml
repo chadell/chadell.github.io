@@ -5,7 +5,7 @@ locale                   : "en-US"
 author: Christian Adell Querol
 email: chadell@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Still thinking on a cool description
+  This blog is about sharing my thoughts and learnings about how to make IT infrastructures (specially Networking) easier and more agile.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chadell0
