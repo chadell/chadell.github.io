@@ -30,9 +30,7 @@ After having worked on these presentations, I can enumerate some key takeaways f
 
 5) **Networking is a key skill in IT, bring it close to the business 😎**. Yes, it is. A relevant part of your application user's experience will be affected by how your network performs (latency, throughput, packet loss), so bear this in mind, you just have to make it an enabler and make it worthy for your business.
 
-<p>
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vQFUkYeKAIZQLiCoPZ1AgPFKgtsjE_U7wipI5dbHvJYXqn3Ef2pL_ggfiUU3gu0QKpHU4MZTqdzsNjr/pub?w=350&h=360" align="middle">
-</p>
+![](https://docs.google.com/drawings/d/e/2PACX-1vQFUkYeKAIZQLiCoPZ1AgPFKgtsjE_U7wipI5dbHvJYXqn3Ef2pL_ggfiUU3gu0QKpHU4MZTqdzsNjr/pub?w=350&h=360)
 
 Congrats, you have reached the end of this long post, but hopefully some of my ideas have helped you on your personal journey. As an extra, I am going to share my [learning](http://chadell.github.io/refs) list with you, where I've been tracking the most relevant blogs, articles, courses, etc. I've used (or I'm planning to) regarding networking, coding, cloud, linux and culture topics.
 
