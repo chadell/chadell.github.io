@@ -22,22 +22,10 @@ disqus:
   shortname: chadell
 
 google_analytics: UA-119143430-1
+
 exclude:
   - Gemfile
   - Gemfile.lock
-
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Custom site configuration
 lang: en
