@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Why am I starting this blog?"
+date:   2018-05-11 08:52:14 +0200
+categories: learning devops networking
+---
+
+good question... I'm not absolutely sure, but I feel that starting a blog where I could share some of the findings and insights that my ongoings projects are teaching me could be interesting to more people, nothing else.
+
+Personally, the topics I'm interested in are networking, automation, coding, DevOps, Linux, Cloud, containers, etc. a lot of buzzwords that have made me happy at work. So expect related topics here.
+
+Let's see if I can blog periodically, but hopefully from time to time something turns up here

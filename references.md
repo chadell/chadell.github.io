@@ -1,7 +1,7 @@
 ---
 layout: page
 title: References
-permalink: /ref/
+permalink: /refs/
 ---
 
 # Learning materials
@@ -17,10 +17,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
-* [Book Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
 * [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
-
 
 ## Candidate Conferences
 
@@ -29,6 +27,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 ## Backlog
 
+* [Book Designing Data-Intensive Applications](https://dataintensive.net/)
 * [CNI Plugin for K8S](https://github.com/aws/amazon-vpc-cni-k8s/blob/master/proposals/cni-proposal.md)
 * [Learn K8S the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Flask tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -50,7 +49,18 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Serverless is eating the world](https://read.acloud.guru/serverless-is-eating-the-stack-and-people-are-freaking-out-and-they-should-be-431a9e0db482)
 * [Measuring network performance](https://www.performancevision.com/blog/measuring-network-performance-links-between-latency-throughput-packet-loss/)
 * [Python cheatsheet](https://gto76.github.io/python-cheatsheet/)
-* [Packetbeat]
+* [Packetbeat](https://www.elastic.co/products/beats/packetbeat)
+* RIPE76 presentations:
+    * [BGP Flexibility and… Its Consequences](https://ripe76.ripe.net/wp-content/uploads/presentations/37-ripe76.azimov.pdf)
+    * [Why are we still seeing DDOS traffic ??](https://ripe76.ripe.net/wp-content/uploads/presentations/14-RIPE76-preso.pdf)
+    * [TCP and BBR](https://ripe76.ripe.net/wp-content/uploads/presentations/10-2018-05-15-bbr.pdf)
+    * [Rebuilding a network data pipeline](https://ripe76.ripe.net/wp-content/uploads/presentations/46-RIPE76-NetworkPipeline-2.pdf)
+    * [Event-driven Network Automation and Orchestration](https://ripe76.ripe.net/wp-content/uploads/presentations/17-RIPE76_-Event-driven-network-automation-and-orchestration.pdf)
+    * [Facebook commodity network](https://ripe76.ripe.net/wp-content/uploads/presentations/55-RichardSheehan_Facebook_CommodityNetworks.pdf]
+    * [ARTEMIS: Neutralizing BGP Hijacking within a Minute](https://ripe76.ripe.net/wp-content/uploads/presentations/7-ARTEMIS_RIPE76_Routing_WG.pdf)
+    * [SRv6 Network Programming](https://ripe76.ripe.net/wp-content/uploads/presentations/18-20180514_SRv6_RIPE.pdf)
+* [Lessons Learned — A Year Of Going “Fully Serverless” In Production](https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f)
+* [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5?mkt_tok=eyJpIjoiTW1NeFl6bG1Zek13WkRFNSIsInQiOiJ0SWtST09KV0hCUytMQnZLaUhzV090R1prTk5FdWhlNTZqREpmWGZLOFJBc1lhRnJuVlVTaXNIODg1WVA2R204dmpTcm52YjFqWFczQVdwK3R4WlU3SThmaWw3ZWdtdU1WNytUUXlPSlBVVGFzK2FSaE94Yk4xNjF4SzNmeWRRMSJ9)
 
 
 # Cloud and Containers
