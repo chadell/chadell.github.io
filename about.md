@@ -10,6 +10,9 @@ Either as manager or contributor, I enjoy facing professional challenges to supp
 
 My tech background include networking, security, coding and sysadmin skills, due being playing around with the transformation of IT from bare-metal to Cloud based platforms.
 
+<p align="center">
 ![me]({{ "/assets/me_devopsbcn.jpg" | absolute_url }})
+</p>
+
 
 [jekyll-organization]: https://github.com/jekyll
