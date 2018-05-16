@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I would define myself as a passionate IT systems engineer with experience in the Internet ecosystem, where I have performed several roles such as team lead, devops and network engineer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Either as manager or contributor, I enjoy facing professional challenges to support business development and product management, growing new ideas from scratch to mature services. Personally I'm goal/data-driven, proactive and honest.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My tech background include networking, security, coding and sysadmin skills, due being playing around with the transformation of IT from bare-metal to Cloud based platforms.
 
 
 [jekyll-organization]: https://github.com/jekyll
