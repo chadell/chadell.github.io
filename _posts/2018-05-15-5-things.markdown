@@ -6,7 +6,7 @@ categories: learning devops networking
 ---
 
 
-I decided to jump out of my comfort zone as a traditional network engineer three years ago, so now this would be the ideal moment to share some of my experiences, by giving you some pointers in case you find yourself in a similar situation.
+Three years ago, I decided to jump out of my comfort zone as a traditional network engineer, so now this would be the ideal moment to share some of my experiences by giving you some pointers in case you find yourself in a similar situation.
 
 I started off as a network engineer/architect with over 10 years of experience, I was the very one who loved going into CLI, debugging protocols, reading RFCs and analyzing complex PCAP traces in a traditional IT enterprise environment (Campus, Data Center, WAN, Internet, etc.), but with few relationship with other IT operational areas such as sysadmin, database and, obviously, developing.
 
@@ -30,13 +30,13 @@ After having worked on these presentations, I can enumerate some key takeaways f
 
 5) **Networking is a key skill in IT, bring it close to the business 😎**. Yes, it is. A relevant part of your application user's experience will be affected by how your network performs (latency, throughput, packet loss), so bear this in mind, you just have to make it an enabler and make it worthy for your business.
 
-![](https://docs.google.com/drawings/d/e/2PACX-1vQFUkYeKAIZQLiCoPZ1AgPFKgtsjE_U7wipI5dbHvJYXqn3Ef2pL_ggfiUU3gu0QKpHU4MZTqdzsNjr/pub?w=350&h=360)
+![](https://docs.google.com/drawings/d/e/2PACX-1vQFUkYeKAIZQLiCoPZ1AgPFKgtsjE_U7wipI5dbHvJYXqn3Ef2pL_ggfiUU3gu0QKpHU4MZTqdzsNjr/pub?w=350&h=360){:class="img-responsive"}
 
-Congrats, you have reached the end of this long post, but hopefully some of my ideas have helped you on your personal journey. As an extra, I am going to share my [learning](http://chadell.github.io/refs) list with you, where I've been tracking the most relevant blogs, articles, courses, etc. I've used (or I'm planning to) regarding networking, coding, cloud, linux and culture topics.
+Congrats, you have reached the end of this long post, but hopefully some of my ideas have helped you on your personal journey. As an extra, I am starting to share my [learnings](http://chadell.github.io/refs) list with you, where I've been tracking the most relevant blogs, articles, courses, etc. I've used (or I'm planning to) regarding networking, coding, cloud, linux and relative topics.
 
 I wouldn't end this retrospective without naming just a short list of people who have helped me on my personal journey (with a lot of patience). Thanks to Daniel Giribet, Marc Morata, Daniel Beneyto, Daniel Caballero, Jaume Pinyol, Roger Sole, Valentin Gutierrez, Ulises Olivenza, Adam Stevko, Paco Orozco, and Diego Pomares (in chronological order), amongst many others that I can not mentioning here as the list goes on and on.
 
-Extra point: Similarly to the [DevOps course](https://www.salleurl.edu/en/education/devops-management-course) I'm contributing to, I'm also considering to create & run a 2-3 days "Network Automation & Programmability" **bootcamp in Barcelona** before the end of the year, so if you are interested in participating (attending or contributing) in, promoting or hosting it, don't hesitate to reach me out, and I would take your points into account when defining it.
+**Extra point**: Similarly to the [DevOps course](https://www.salleurl.edu/en/education/devops-management-course) I'm contributing to, I'm also considering to create & run a 2-3 days "Network Automation & Programmability" **bootcamp in Barcelona** before the end of the year, so if you are interested in participating (attending or contributing) in, promoting or hosting it, don't hesitate to reach me out, and I would take your points into account when defining it.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
