@@ -4,28 +4,29 @@ title: References
 permalink: /refs/
 ---
 
-# Learning materials
+## Learning materials
+-----
 
 Keeping track of your learning process is quite difficult when you are moveing from one topic to another. This repository is just a way to remember the best material I've been using since 2016 for learning and fun.
 
-## Ongoing
+### Ongoing
 
 * [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 * [Network automation workshop 101](https://chadell.github.io/slides/180515_workshopansible/#/)
 
-## Next Quarter Personal OKRs
+### On-hold
 
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
 * [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
 * [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
 
-## Candidate Conferences
+### Candidate Conferences
 
 * [Dockercon EU](http://europe-2018.dockercon.com/)
 * [Open Network Summit 2018](https://events.linuxfoundation.org/events/open-networking-summit-europe-2018/)
 
-## Backlog
+### Backlog
 
 * [Book Designing Data-Intensive Applications](https://dataintensive.net/)
 * [CNI Plugin for K8S](https://github.com/aws/amazon-vpc-cni-k8s/blob/master/proposals/cni-proposal.md)
