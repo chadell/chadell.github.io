@@ -12,7 +12,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ### Ongoing
 
 * [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
-* [Network automation workshop 101](https://chadell.github.io/slides/180515_workshopansible/#/)
+* [Network Automation Workshop 101](https://chadell.github.io/slides/180515_workshopansible/#/)
 
 ### On-hold
 
@@ -57,7 +57,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
     * [TCP and BBR](https://ripe76.ripe.net/wp-content/uploads/presentations/10-2018-05-15-bbr.pdf)
     * [Rebuilding a network data pipeline](https://ripe76.ripe.net/wp-content/uploads/presentations/46-RIPE76-NetworkPipeline-2.pdf)
     * [Event-driven Network Automation and Orchestration](https://ripe76.ripe.net/wp-content/uploads/presentations/17-RIPE76_-Event-driven-network-automation-and-orchestration.pdf)
-    * [Facebook commodity network](https://ripe76.ripe.net/wp-content/uploads/presentations/55-RichardSheehan_Facebook_CommodityNetworks.pdf]
+    * [Facebook commodity network](https://ripe76.ripe.net/wp-content/uploads/presentations/55-RichardSheehan_Facebook_CommodityNetworks.pdf)
     * [ARTEMIS: Neutralizing BGP Hijacking within a Minute](https://ripe76.ripe.net/wp-content/uploads/presentations/7-ARTEMIS_RIPE76_Routing_WG.pdf)
     * [SRv6 Network Programming](https://ripe76.ripe.net/wp-content/uploads/presentations/18-20180514_SRv6_RIPE.pdf)
 * [Lessons Learned — A Year Of Going “Fully Serverless” In Production](https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f)
