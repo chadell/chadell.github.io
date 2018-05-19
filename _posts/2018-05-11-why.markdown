@@ -5,7 +5,9 @@ date:   2018-05-11 08:52:14 +0200
 categories: learning devops networking
 ---
 
-Good question... I'm not absolutely sure, but I feel that starting a blog where I could share some of the findings and insights that my ongoings projects are teaching me, could be interesting to more people, nothing else.
+Good question... I'm not absolutely sure, but I feel that starting a blog where I could **share some of the findings and insights** that my ongoings projects are teaching me, could be interesting to more people, nothing else.
+
+Also, it would be great to use this blog to discuss about the points you have regarding my posts, so we **collaborate together** on this learning process. I encourage you to do so!
 
 Personally, the topics I'm interested in are Networking, Automation, Coding, DevOps, Linux, Cloud, Containers, etc. a lot of buzzwords that have made me happy at work. So expect related topics here.
 

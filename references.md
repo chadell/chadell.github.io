@@ -63,136 +63,14 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5?mkt_tok=eyJpIjoiTW1NeFl6bG1Zek13WkRFNSIsInQiOiJ0SWtST09KV0hCUytMQnZLaUhzV090R1prTk5FdWhlNTZqREpmWGZLOFJBc1lhRnJuVlVTaXNIODg1WVA2R204dmpTcm52YjFqWFczQVdwK3R4WlU3SThmaWw3ZWdtdU1WNytUUXlPSlBVVGFzK2FSaE94Yk4xNjF4SzNmeWRRMSJ9)
 * [Stateless datacenter load-balancing with Beamer](https://blog.acolyer.org/2018/05/03/stateless-datacenter-load-balancing-with-beamer/)
 
+## Networking
+------
 
-# Cloud and Containers
-
-## Blogs
-
-* [Scott Lowe Blog](https://blog.scottlowe.org/)
-* [Enter Dev y Ops](http://www.entredevyops.es/)
-
-## Books
-
-* [DevOps Toolkit 2.0](https://leanpub.com/the-devops-2-toolkit)
-* [Infrastructure as a Code](http://shop.oreilly.com/product/0636920039297.do)
-
-## Courses
-
-* [AWS Solutions Architect - Associate Labs](https://qwiklabs.com/quests/10?locale=en)
-* [Docker in Depth](https://cloudacademy.com/learning-paths/cloud-academy-docker-in-depth-129/)
-* [Certification AWS Solutions Architect - Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
-* [Certification AWS Advanced Networking](https://acloud.guru/learn/aws-certified-advanced-networking-specialty)
-
-
-## Articles
-
-* [Docker Networking Design](https://success.docker.com/article/Docker_Reference_Architecture-_Designing_Scalable,_Portable_Docker_Container_Networks)
-* [Docker Networking Troubleshooting](https://success.docker.com/article/Troubleshooting_Container_Networking)
-* [AWS multicast](https://aws.amazon.com/articles/overlay-multicast-in-amazon-virtual-private-cloud/)
-* [GCP vs AWS](https://kinsta.com/blog/google-cloud-vs-aws/)
-* [Flannel networking overview](https://blog.laputa.io/kubernetes-flannel-networking-6a1cb1f8ec7c)
-* [Flannel networking analyisis](http://res.www.zte.com.cn/mediares/magazine/publication/com_en/article/201704/466313/P020171124587760883199.pdf)
-* [Thoughts after completing all 7 AWS Certifications](https://zugdud.io/index.php/2017/10/15/reflections-on-completing-all-7-aws-certifications/)
-* [GCP vs AWS networking](http://netdesignarena.com/networking-in-aws-vs-google-cloud-platform-design-considerations/)
-
-
-## Resources
-
-* [Docker network trouble-shooting swiss-army container](https://github.com/nicolaka/netshoot)
-
-## Outputs
-
-* [DevOps Barcelona slides](https://chadell.github.io/slides/180410_devopsbarcelona/)
-
-# Linux
-
-## Blogs
-
-* [Brendan Gregg Blog](http://www.brendangregg.com/blog/index.html)
-* [Julia Evans Blog](https://jvns.ca/)
-
-## Books
-
-* [Linux Kernel Networking](https://www.amazon.com/Linux-Kernel-Networking-Implementation-Experts/dp/143026196X)
-* [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=5TV7N7CT4T8ESGS47SZR)
-
-## Courses
-
-* [LPIC-1](https://cloudacademy.com/library/certifications/courses/)
-
-## Articles
-
-* [Monitoring and Tuning the Linux Networking Stack](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
-
-## Outputs
-
-# Software Engineering & Coding
-
-## Coding projects
-
-* [Python Serverless](https://github.com/Miserlou/Zappa/)
-
-## Blogs
-
-* [Just for func](https://www.youtube.com/c/justforfunc/)
-
-## Books
-
-* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-* [Understanding Network Hacks - Attack and Defense with Python](http://www.springer.com/la/book/9783662444368)
-* [Pro Python Best Practices - Debugging, Testing and Maintenance](https://www.apress.com/la/book/9781484222409)
-* [Site Reliability Engineering](http://shop.oreilly.com/product/0636920041528.do)
-* [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
-
-## Courses
-
-* [Mastering Go Programming](https://www.udemy.com/mastering-go-programming/learn/v4/overview)
-* [Python for Network Engineers](https://pynet.twb-tech.com)
-
-## Conferences
-
-* [FOSDEM](https://fosdem.org/2018/schedule/)
-* [SREcon16](https://www.usenix.org/conference/srecon16europe)
-
-## Articles
-
-* [Python tips](https://www.pythonsheets.com/notes/python-basic.html)
-* [12-factor app](https://12factor.net/)
-
-## Outputs
-
-* [TCPGOON](https://github.com/dachad/tcpgoon)
-
-
-# Culture
-
-## Blogs
-
-## Books
-
-* [Lead with respect](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=386)
-
-## Courses
-
-* [Scrum Master Certified CSM](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
-
-## Articles / Videos
-
-* [Presentation tips 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw)
-* [Presentation tips 2](http://www.youtube.com/watch?v=gcOP4WQfJl4)
-* [HTML slides tricks](http://huffn.github.io/htmlApprentice/)
-
-## Outputs
-
-* [DevOps Training, spanish](https://bitbucket.org/dcaba/devops-training/)
-
-# Networking
-
-## Slack
+### Slack
 
 * [Networktocode](http://networktocode.herokuapp.com/)
 
-## Blogs / Podcasts
+### Blogs / Podcasts
 
 * [Ivan Pepelnjak](http://blog.ipspace.net/)
 * [Cloudflare](https://blog.cloudflare.com/)
@@ -208,33 +86,162 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Matt Oswalt](https://keepingitclassless.net/)
 * [Router Jockey](https://routerjockey.com/)
 
-## Books
+### Books
 
 * [Network Automation at scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf)
 * [TCP/IP Volumen II, CCIE](http://www.ciscopress.com/store/routing-tcp-ip-volume-ii-ccie-professional-development-9781587054709)
 * [High Performance Browser Networking](https://hpbn.co/)
 
-## Courses
+### Courses
 
 * [RIPE IPv6 and BGP](https://www.ripe.net/support/training/courses/bgp)
 * [Cloud Networking](https://www.coursera.org/learn/cloud-networking)
 * [Cumulus Webinars](https://cumulusnetworks.com/learn/open-networking-webinars/)
 
-## Conferences
+### Conferences
 
 * [GORE 19](http://www.esnog.net/gore19.html)
 * [RIPE 74](https://ripe74.ripe.net/)
 * [DevOPs Networking Summit 2016](https://www.linux.com/watch-devops-summit-2016-videos)
 * [RIPE 73](https://ripe73.ripe.net/)
 
-## Articles
+### Articles
 
 * [BGP Hypervisor](https://vincent.bernat.im/en/blog/2018-l3-routing-hypervisor)
 * [PacketLife - Chear Sheets + Captures](http://packetlife.net/)
 
-## Outputs
+### Outputs
 
 * [GORE 19 Presentation](https://chadell.github.io/slides/170406_gore19/)
 * [Barcelona SDN & Network Programmability Meetup](meetup.com/es-ES/SDN-and-Network-Programmability-Meetup-in-Barcelona/)
 * [Netnod 18 slides](https://chadell.github.io/slides/180314_netnod/NetNod18.pdf)
 * [Netnod 18 video](https://www.youtube.com/watch?v=TMKG8dww9Fc)
+
+
+
+## Cloud and Containers
+------
+
+### Blogs
+
+* [Scott Lowe Blog](https://blog.scottlowe.org/)
+* [Enter Dev y Ops](http://www.entredevyops.es/)
+
+### Books
+
+* [DevOps Toolkit 2.0](https://leanpub.com/the-devops-2-toolkit)
+* [Infrastructure as a Code](http://shop.oreilly.com/product/0636920039297.do)
+
+## Courses
+
+* [AWS Solutions Architect - Associate Labs](https://qwiklabs.com/quests/10?locale=en)
+* [Docker in Depth](https://cloudacademy.com/learning-paths/cloud-academy-docker-in-depth-129/)
+* [Certification AWS Solutions Architect - Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+* [Certification AWS Advanced Networking](https://acloud.guru/learn/aws-certified-advanced-networking-specialty)
+
+
+### Articles
+
+* [Docker Networking Design](https://success.docker.com/article/Docker_Reference_Architecture-_Designing_Scalable,_Portable_Docker_Container_Networks)
+* [Docker Networking Troubleshooting](https://success.docker.com/article/Troubleshooting_Container_Networking)
+* [AWS multicast](https://aws.amazon.com/articles/overlay-multicast-in-amazon-virtual-private-cloud/)
+* [GCP vs AWS](https://kinsta.com/blog/google-cloud-vs-aws/)
+* [Flannel networking overview](https://blog.laputa.io/kubernetes-flannel-networking-6a1cb1f8ec7c)
+* [Flannel networking analyisis](http://res.www.zte.com.cn/mediares/magazine/publication/com_en/article/201704/466313/P020171124587760883199.pdf)
+* [Thoughts after completing all 7 AWS Certifications](https://zugdud.io/index.php/2017/10/15/reflections-on-completing-all-7-aws-certifications/)
+* [GCP vs AWS networking](http://netdesignarena.com/networking-in-aws-vs-google-cloud-platform-design-considerations/)
+
+
+### Resources
+
+* [Docker network trouble-shooting swiss-army container](https://github.com/nicolaka/netshoot)
+
+### Outputs
+
+* [DevOps Barcelona slides](https://chadell.github.io/slides/180410_devopsbarcelona/)
+
+## Linux
+------
+
+### Blogs
+
+* [Brendan Gregg Blog](http://www.brendangregg.com/blog/index.html)
+* [Julia Evans Blog](https://jvns.ca/)
+
+### Books
+
+* [Linux Kernel Networking](https://www.amazon.com/Linux-Kernel-Networking-Implementation-Experts/dp/143026196X)
+* [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=5TV7N7CT4T8ESGS47SZR)
+
+### Courses
+
+* [LPIC-1](https://cloudacademy.com/library/certifications/courses/)
+
+### Articles
+
+* [Monitoring and Tuning the Linux Networking Stack](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
+
+### Outputs
+
+## Software Engineering & Coding
+------
+
+### Coding projects
+
+* [Python Serverless](https://github.com/Miserlou/Zappa/)
+
+### Blogs
+
+* [Just for func](https://www.youtube.com/c/justforfunc/)
+
+### Books
+
+* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+* [Understanding Network Hacks - Attack and Defense with Python](http://www.springer.com/la/book/9783662444368)
+* [Pro Python Best Practices - Debugging, Testing and Maintenance](https://www.apress.com/la/book/9781484222409)
+* [Site Reliability Engineering](http://shop.oreilly.com/product/0636920041528.do)
+* [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
+
+### Courses
+
+* [Mastering Go Programming](https://www.udemy.com/mastering-go-programming/learn/v4/overview)
+* [Python for Network Engineers](https://pynet.twb-tech.com)
+
+### Conferences
+
+* [FOSDEM](https://fosdem.org/2018/schedule/)
+* [SREcon16](https://www.usenix.org/conference/srecon16europe)
+
+### Articles
+
+* [Python tips](https://www.pythonsheets.com/notes/python-basic.html)
+* [12-factor app](https://12factor.net/)
+
+### Outputs
+
+* [TCPGOON](https://github.com/dachad/tcpgoon)
+
+
+## Culture
+------
+
+### Blogs
+
+### Books
+
+* [Lead with respect](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=386)
+
+### Courses
+
+* [Scrum Master Certified CSM](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
+
+### Articles / Videos
+
+* [Presentation tips 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw)
+* [Presentation tips 2](http://www.youtube.com/watch?v=gcOP4WQfJl4)
+* [HTML slides tricks](http://huffn.github.io/htmlApprentice/)
+
+### Outputs
+
+* [DevOps Training, spanish](https://bitbucket.org/dcaba/devops-training/)
+
