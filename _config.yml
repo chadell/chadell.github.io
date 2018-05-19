@@ -14,7 +14,7 @@ linkedin_username: christianadell
 # Build settings
 markdown: kramdown
 # theme: minima
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
