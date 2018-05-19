@@ -37,7 +37,7 @@ Congrats, you have reached the end of this long post, but hopefully some of my i
 
 I wouldn't end this retrospective without naming just a short list of people who have helped me on my personal journey (with a lot of patience). Thanks to Daniel Giribet, Marc Morata, Daniel Beneyto, Daniel Caballero, Jaume Pinyol, Roger Sole, Valentin Gutierrez, Ulises Olivenza, Adam Stevko, Paco Orozco, and Diego Pomares (in chronological order), amongst many others that I can not mentioning here as the list goes on and on.
 
-**Extra point**: Similarly to the [DevOps course](https://www.salleurl.edu/en/education/devops-management-course) I'm contributing to, I'm also considering to create & run a 2-3 days "Network Automation & Programmability" **bootcamp in Barcelona** before the end of the year, so if you are interested in participating (attending or contributing) in, promoting or hosting it, don't hesitate to reach me out, and I would take your points into account when defining it.
+**Extra point**: Similarly to the [DevOps course](https://www.salleurl.edu/en/education/devops-management-course) I'm contributing to, I'm also considering to create & run a 2-3 days "Network Automation & Programmability" **bootcamp in Barcelona** before the end of the year, so if you are interested in participating (attending or contributing) in, promoting or hosting it, don't hesitate to [reach me out](mailto:chadell@gmail.com), and I would take your points into account when defining it.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
