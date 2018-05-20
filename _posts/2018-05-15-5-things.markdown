@@ -9,7 +9,7 @@ comments: true
 
 Three years ago, I decided to jump out of my comfort zone as a traditional network engineer, so now this would be the ideal moment to share some of my experiences by giving you some pointers in case you find yourself in a similar situation.
 
-I started off as a network engineer/architect with over 10 years of experience, I was the very one who loved going into CLI, debugging protocols, reading RFCs and analyzing complex PCAP traces in a traditional IT enterprise environment (Campus, Data Center, WAN, Internet, etc.), but with few relationship with other IT operational areas such as sysadmin, database and, obviously, developing.
+I started off as a network engineer/architect with over 10 years of experience, I was the very one who loved going into CLI, debugging protocols, reading RFCs and analyzing complex PCAP traces, in a traditional IT enterprise environment (Campus, Data Center, WAN, Internet, etc.), but with few relationship with other IT operational areas such as sysadmin, database and, obviously, developing.
 
 I wouldn't say I was bored then, I enjoyed the challenges which I faced, along with getting involved in various international activities close to the industry I was working on (TV Broadcasting). However, whilst following the networking community online, I started to become aware of the fact that the Internet-scale and the dynamic infrastructure/Cloud were bringing new challenges to my area and I didn't feel comfortable with the skills needed in solving them.
 
@@ -37,7 +37,7 @@ Congrats, you have reached the end of this long post, but hopefully some of my i
 
 I wouldn't end this retrospective without naming just a short list of people who have helped me on my personal journey (with a lot of patience). Thanks to Daniel Giribet, Marc Morata, Daniel Beneyto, Daniel Caballero, Jaume Pinyol, Roger Sole, Valentin Gutierrez, Ulises Olivenza, Adam Stevko, Paco Orozco, and Diego Pomares (in chronological order), amongst many others that I can not mentioning here as the list goes on and on.
 
-**Extra point**: Similarly to the [DevOps course](https://www.salleurl.edu/en/education/devops-management-course) I'm contributing to, I'm also considering to create & run a 2-3 days "Network Automation & Programmability" **bootcamp in Barcelona** before the end of the year, so if you are interested in participating (attending or contributing) in, promoting or hosting it, don't hesitate to [reach me out](mailto:chadell@gmail.com), and I would take your points into account when defining it.
+**Extra point**: Like the [DevOps course](https://www.salleurl.edu/en/education/devops-management-course) I'm contributing to, I'm also considering to create & run a 2-3 days "Network Automation & Programmability" **bootcamp in Barcelona** before the end of the year, so if you are interested in participating (attending or contributing) in, promoting or hosting it, don't hesitate to [reach me out](mailto:chadell@gmail.com), and I would take your points into account when defining it.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
