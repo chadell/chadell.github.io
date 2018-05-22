@@ -217,6 +217,7 @@ Keeping track of your learning process is quite difficult when you are moveing f
 
 * [Python tips](https://www.pythonsheets.com/notes/python-basic.html)
 * [12-factor app](https://12factor.net/)
+* [Web developer security checklist](https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56)
 
 ### Outputs
 
