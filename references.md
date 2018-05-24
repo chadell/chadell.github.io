@@ -4,18 +4,17 @@ title: References
 permalink: /refs/
 ---
 
-## Learning materials
+## Learning materials / Ongoing Projects
 -----
 
-Keeping track of your learning process is quite difficult when you are moveing from one topic to another. This repository is just a way to remember the best material I've been using since 2016 for learning and fun.
+Keeping track of your personal development  is quite difficult when you are moving from one topic to another. This repository is just a way to remember the best materials I've been using/creating since 2016 for learning and fun.
 
-### Ongoing
+### 2018 Q2 Goals (pending)
 
 * [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
-* [Network Automation Workshop 101](https://chadell.github.io/slides/180515_workshopansible/#/)
-
-### On-hold
-
+* [Workshop about StackStorm for BCN SDN Meetup](https://github.com/bcn-sdn-meetup/st2-workshop)
+* [Ansible exercise for the DevOps Course](http://bitbucket.org/dcaba/devops-training/)
+* [Setup a Guifi.net RF wireless network]()
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
 * [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
@@ -63,6 +62,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [Lessons Learned — A Year Of Going “Fully Serverless” In Production](https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f)
 * [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5?mkt_tok=eyJpIjoiTW1NeFl6bG1Zek13WkRFNSIsInQiOiJ0SWtST09KV0hCUytMQnZLaUhzV090R1prTk5FdWhlNTZqREpmWGZLOFJBc1lhRnJuVlVTaXNIODg1WVA2R204dmpTcm52YjFqWFczQVdwK3R4WlU3SThmaWw3ZWdtdU1WNytUUXlPSlBVVGFzK2FSaE94Yk4xNjF4SzNmeWRRMSJ9)
 * [Stateless datacenter load-balancing with Beamer](https://blog.acolyer.org/2018/05/03/stateless-datacenter-load-balancing-with-beamer/)
+* [Open-sourcing Katran, a scalable network load balancer](https://code.facebook.com/posts/1906146702752923)
+* [Website development as a sysadmin](https://medium.com/devops-faith/website-development-as-a-sysadmin-848e7ec4b019)
 
 ## Networking
 ------
@@ -111,13 +112,15 @@ Keeping track of your learning process is quite difficult when you are moveing f
 * [BGP Hypervisor](https://vincent.bernat.im/en/blog/2018-l3-routing-hypervisor)
 * [PacketLife - Chear Sheets + Captures](http://packetlife.net/)
 
+
 ### Outputs
 
 * [GORE 19 Presentation](https://chadell.github.io/slides/170406_gore19/)
 * [Barcelona SDN & Network Programmability Meetup](meetup.com/es-ES/SDN-and-Network-Programmability-Meetup-in-Barcelona/)
 * [Netnod 18 slides](https://chadell.github.io/slides/180314_netnod/NetNod18.pdf)
 * [Netnod 18 video](https://www.youtube.com/watch?v=TMKG8dww9Fc)
-
+* [Network Automation Workshop 101 slides](https://chadell.github.io/slides/180515_workshopansible/#/)
+* [Network Automation Workshop 101 scenario](https://github.com/chadell/ansible-cumulus-vyos)
 
 
 ## Cloud and Containers
@@ -181,6 +184,8 @@ Keeping track of your learning process is quite difficult when you are moveing f
 ### Articles
 
 * [Monitoring and Tuning the Linux Networking Stack](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
+* [Dive into BPF: a list of reading material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
+
 
 ### Outputs
 
