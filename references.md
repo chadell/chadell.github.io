@@ -11,7 +11,6 @@ Keeping track of your personal development  is quite difficult when you are movi
 
 ### 2018 Q2 Goals (pending)
 
-* [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
 * [Workshop about StackStorm for BCN SDN Meetup](https://github.com/bcn-sdn-meetup/st2-workshop)
 * [Ansible exercise for the DevOps Course](http://bitbucket.org/dcaba/devops-training/)
 * [Setup a Guifi.net RF wireless network]()
@@ -48,7 +47,6 @@ Keeping track of your personal development  is quite difficult when you are movi
 * [Play around with AWS & GCP network automation](https://cloud.google.com/solutions/automated-network-deployment-multicloud)
 * [Serverless is eating the world](https://read.acloud.guru/serverless-is-eating-the-stack-and-people-are-freaking-out-and-they-should-be-431a9e0db482)
 * [Measuring network performance](https://www.performancevision.com/blog/measuring-network-performance-links-between-latency-throughput-packet-loss/)
-* [Python cheatsheet](https://gto76.github.io/python-cheatsheet/)
 * [Packetbeat](https://www.elastic.co/products/beats/packetbeat)
 * RIPE76 presentations:
     * [BGP Flexibility and… Its Consequences](https://ripe76.ripe.net/wp-content/uploads/presentations/37-ripe76.azimov.pdf)
@@ -93,6 +91,8 @@ Keeping track of your personal development  is quite difficult when you are movi
 * [Network Automation at scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf)
 * [TCP/IP Volumen II, CCIE](http://www.ciscopress.com/store/routing-tcp-ip-volume-ii-ccie-professional-development-9781587054709)
 * [High Performance Browser Networking](https://hpbn.co/)
+* [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
+
 
 ### Courses
 
@@ -111,7 +111,9 @@ Keeping track of your personal development  is quite difficult when you are movi
 
 * [BGP Hypervisor](https://vincent.bernat.im/en/blog/2018-l3-routing-hypervisor)
 * [PacketLife - Chear Sheets + Captures](http://packetlife.net/)
-
+* [High availability with ExaBGP](https://vincent.bernat.im/en/blog/2013-exabgp-highavailability)
+* [BGP on the wire](http://thomas.mangin.com/data/pdf/UKNOF%2015%20-%20Mangin%20-%20Naked%20BGP.pdf)
+* [OSS BGP Implementations](https://github.com/Exa-Networks/exabgp/wiki/Other-OSS-BGP-implementations)
 
 ### Outputs
 
@@ -154,7 +156,7 @@ Keeping track of your personal development  is quite difficult when you are movi
 * [Flannel networking analyisis](http://res.www.zte.com.cn/mediares/magazine/publication/com_en/article/201704/466313/P020171124587760883199.pdf)
 * [Thoughts after completing all 7 AWS Certifications](https://zugdud.io/index.php/2017/10/15/reflections-on-completing-all-7-aws-certifications/)
 * [GCP vs AWS networking](http://netdesignarena.com/networking-in-aws-vs-google-cloud-platform-design-considerations/)
-
+* [Multi-tier load-balancing with Linux](https://vincent.bernat.im/en/blog/2018-multi-tier-loadbalancer)
 
 ### Resources
 
@@ -185,6 +187,7 @@ Keeping track of your personal development  is quite difficult when you are movi
 
 * [Monitoring and Tuning the Linux Networking Stack](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
 * [Dive into BPF: a list of reading material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
+* [Coping with the TCP TIME-WAIT state on busy Linux servers](https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux)
 
 
 ### Outputs
@@ -223,6 +226,8 @@ Keeping track of your personal development  is quite difficult when you are movi
 * [Python tips](https://www.pythonsheets.com/notes/python-basic.html)
 * [12-factor app](https://12factor.net/)
 * [Web developer security checklist](https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56)
+* [Python cheatsheet](https://gto76.github.io/python-cheatsheet/)
+
 
 ### Outputs
 
