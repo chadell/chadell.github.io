@@ -7,7 +7,7 @@ permalink: /refs/
 ## Learning materials / Ongoing Projects
 -----
 
-Keeping track of your personal development  is quite difficult when you are moving from one topic to another. This repository is just a way to remember the best materials I've been using/creating since 2016 for learning and fun.
+Keeping track of your personal development is quite difficult when you are moving from one topic to another. This repository is just a way to remember the best materials I've been using/creating since 2016 for learning and fun.
 
 ### 2018 Q2 Goals (pending)
 
