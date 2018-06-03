@@ -11,4 +11,4 @@ Also, it would be great to use this blog to discuss about the points you have re
 
 Personally, the topics I'm interested in are Networking, Automation, Coding, DevOps, Linux, Cloud, Containers, etc. a lot of buzzwords that have made me happy at work. So expect related topics here.
 
-Let's see if I can blog periodically, but hopefully from time to time something turns up here 😉
+Let's see if I can start blogging periodically, but hopefully from time to time something turns up here 😉
