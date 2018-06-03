@@ -104,7 +104,7 @@ Keeping track of your personal development  is quite difficult when you are movi
 
 * [GORE 19](http://www.esnog.net/gore19.html)
 * [RIPE 74](https://ripe74.ripe.net/)
-* [DevOPs Networking Summit 2016](https://www.linux.com/watch-devops-summit-2016-videos)
+* [DevOps Networking Summit 2016](https://www.linux.com/watch-devops-summit-2016-videos)
 * [RIPE 73](https://ripe73.ripe.net/)
 
 ### Articles
@@ -164,6 +164,7 @@ Keeping track of your personal development  is quite difficult when you are movi
 
 ### Outputs
 
+* [DevOps Barcelona video](https://www.youtube.com/watch?v=PWKEmmsL--Y&feature=youtu.be)
 * [DevOps Barcelona slides](https://chadell.github.io/slides/180410_devopsbarcelona/)
 
 ## Linux
