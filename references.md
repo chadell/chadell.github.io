@@ -62,6 +62,8 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Stateless datacenter load-balancing with Beamer](https://blog.acolyer.org/2018/05/03/stateless-datacenter-load-balancing-with-beamer/)
 * [Open-sourcing Katran, a scalable network load balancer](https://code.facebook.com/posts/1906146702752923)
 * [Website development as a sysadmin](https://medium.com/devops-faith/website-development-as-a-sysadmin-848e7ec4b019)
+* [A Deep Dive into Iptables and Netfilter Architecture](https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture)
+* [A warm welcome to DNS](https://powerdns.org/hello-dns/)
 
 ## Networking
 ------
