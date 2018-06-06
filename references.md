@@ -15,9 +15,8 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Ansible exercise for the DevOps Course](http://bitbucket.org/dcaba/devops-training/)
 * [Setup a Guifi.net RF wireless network]()
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
-* [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
 * [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
-* [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
+
 
 ### Candidate Conferences
 
@@ -113,6 +112,7 @@ Keeping track of your personal development is quite difficult when you are movin
 
 * [BGP Hypervisor](https://vincent.bernat.im/en/blog/2018-l3-routing-hypervisor)
 * [PacketLife - Chear Sheets + Captures](http://packetlife.net/)
+* [Julia Evans Networking](https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/)
 * [High availability with ExaBGP](https://vincent.bernat.im/en/blog/2013-exabgp-highavailability)
 * [BGP on the wire](http://thomas.mangin.com/data/pdf/UKNOF%2015%20-%20Mangin%20-%20Naked%20BGP.pdf)
 * [OSS BGP Implementations](https://github.com/Exa-Networks/exabgp/wiki/Other-OSS-BGP-implementations)
@@ -230,6 +230,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [12-factor app](https://12factor.net/)
 * [Web developer security checklist](https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56)
 * [Python cheatsheet](https://gto76.github.io/python-cheatsheet/)
+* [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
 
 
 ### Outputs
