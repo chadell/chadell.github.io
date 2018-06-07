@@ -116,6 +116,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [High availability with ExaBGP](https://vincent.bernat.im/en/blog/2013-exabgp-highavailability)
 * [BGP on the wire](http://thomas.mangin.com/data/pdf/UKNOF%2015%20-%20Mangin%20-%20Naked%20BGP.pdf)
 * [OSS BGP Implementations](https://github.com/Exa-Networks/exabgp/wiki/Other-OSS-BGP-implementations)
+* [DNS and Tor](https://blog.cloudflare.com/welcome-hidden-resolver/)
 
 ### Outputs
 
