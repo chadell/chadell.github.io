@@ -17,7 +17,6 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
 
-
 ### Candidate Conferences
 
 * [Dockercon EU](http://europe-2018.dockercon.com/)
@@ -63,6 +62,9 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Website development as a sysadmin](https://medium.com/devops-faith/website-development-as-a-sysadmin-848e7ec4b019)
 * [A Deep Dive into Iptables and Netfilter Architecture](https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture)
 * [A warm welcome to DNS](https://powerdns.org/hello-dns/)
+* [NetDevOps Blog](https://netdevops.io/2018/06/07/hierarchical-configuration-part-1.html)
+* [Self-renewing Let’s Encrypt wildcard certificates in Kubernetes for internal domains](https://medium.com/infrastructure-adventures/self-renewing-lets-encrypt-wildcard-certificates-in-kubernetes-for-internal-domains-part-i-dns-ea788eb3dbf9)
+* [Internet Edge Peering - Current Practice](https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/)
 
 ## Networking
 ------
@@ -74,6 +76,7 @@ Keeping track of your personal development is quite difficult when you are movin
 ### Blogs / Podcasts
 
 * [Ivan Pepelnjak](http://blog.ipspace.net/)
+* [IPEngineer](http://ipengineer.net/home/)
 * [Cloudflare](https://blog.cloudflare.com/)
 * [Packet Pushers](http://packetpushers.net/)
 * [Ryan Booth](http://blog.movingonesandzeros.net/)
