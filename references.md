@@ -209,6 +209,7 @@ Keeping track of your personal development is quite difficult when you are movin
 ### Blogs
 
 * [Just for func](https://www.youtube.com/c/justforfunc/)
+* [Real Python](https://realpython.com/)
 
 ### Books
 
