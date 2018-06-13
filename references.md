@@ -65,6 +65,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [NetDevOps Blog](https://netdevops.io/2018/06/07/hierarchical-configuration-part-1.html)
 * [Self-renewing Let’s Encrypt wildcard certificates in Kubernetes for internal domains](https://medium.com/infrastructure-adventures/self-renewing-lets-encrypt-wildcard-certificates-in-kubernetes-for-internal-domains-part-i-dns-ea788eb3dbf9)
 * [Internet Edge Peering - Current Practice](https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/)
+* [Network Labs Using Nested Virtualization in the Cloud](http://www.brianlinkletter.com/network-labs-using-nested-virtualization-in-the-cloud/)
 
 ## Networking
 ------
