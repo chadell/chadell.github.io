@@ -5,6 +5,7 @@ permalink: /refs/
 ---
 
 ## Learning materials / Ongoing Projects
+
 -----
 
 Keeping track of your personal development is quite difficult when you are moving from one topic to another. This repository is just a way to remember the best materials I've been using/creating since 2016 for learning and fun.
@@ -12,15 +13,14 @@ Keeping track of your personal development is quite difficult when you are movin
 ### 2018 Q2 Goals (pending)
 
 * [Workshop about StackStorm for BCN SDN Meetup](https://github.com/bcn-sdn-meetup/st2-workshop)
-* [Ansible exercise for the DevOps Course](http://bitbucket.org/dcaba/devops-training/)
-* [Setup a Guifi.net RF wireless network]()
+* Setup a Guifi.net RF wireless network
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
+* Publish DevOps course in GitHub
 
-### Candidate Conferences
+### 2018 Q3 Goals (wip)
 
-* [Dockercon EU](http://europe-2018.dockercon.com/)
-* [Open Network Summit 2018](https://events.linuxfoundation.org/events/open-networking-summit-europe-2018/)
+* Book Computer Networking Problems and Solutions
 
 ### Backlog
 
@@ -30,18 +30,14 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Flask tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [TCP Series](https://networkwalk.blog/2017/10/30/tcp-talk-series-i/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrvhDQpv2QdimZkQG1fOO%2FQ%3D%3D)
 * [Engineering Egress wirth Edge Fabric](https://research.fb.com/wp-content/uploads/2017/08/sigcomm17-final177-2billion.pdf)
-* [Best Practices NetDevOps](https://cumulusnetworks.com/blog/network-automation-best-practices-devops/)
 * [BPF comes to firewalls](https://lwn.net/Articles/747551/)
-* [Project Nimble](https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4)
 * Reactive Microservices Architecture o'reilly
 * Securing Microservices APIs o'reilly
-* The automated traffic handbook o'reilly
-* Book Computer Networking Problems and Solutions
+* The Automated traffic handbook o'reilly
 * [Integration of a Go service with systemd](https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation)
 * [dNOS: Another Open Source Network Operating System](https://blog.siliconloons.com/posts/2018-03-14-dnos-and-openswitch/)
 * [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html)
 * [Recursive functions in Python](https://realpython.com/python-thinking-recursively/)
-* [Certification AWS Solutions Architect Professional]()
 * [Play around with AWS & GCP network automation](https://cloud.google.com/solutions/automated-network-deployment-multicloud)
 * [Serverless is eating the world](https://read.acloud.guru/serverless-is-eating-the-stack-and-people-are-freaking-out-and-they-should-be-431a9e0db482)
 * [Measuring network performance](https://www.performancevision.com/blog/measuring-network-performance-links-between-latency-throughput-packet-loss/)
@@ -68,7 +64,8 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Network Labs Using Nested Virtualization in the Cloud](http://www.brianlinkletter.com/network-labs-using-nested-virtualization-in-the-cloud/)
 
 ## Networking
-------
+
+-----
 
 ### Slack
 
@@ -97,7 +94,6 @@ Keeping track of your personal development is quite difficult when you are movin
 * [TCP/IP Volumen II, CCIE](http://www.ciscopress.com/store/routing-tcp-ip-volume-ii-ccie-professional-development-9781587054709)
 * [High Performance Browser Networking](https://hpbn.co/)
 * [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
-
 
 ### Courses
 
@@ -152,7 +148,6 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Certification AWS Solutions Architect - Associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
 * [Certification AWS Advanced Networking](https://acloud.guru/learn/aws-certified-advanced-networking-specialty)
 
-
 ### Articles
 
 * [Docker Networking Design](https://success.docker.com/article/Docker_Reference_Architecture-_Designing_Scalable,_Portable_Docker_Container_Networks)
@@ -175,7 +170,8 @@ Keeping track of your personal development is quite difficult when you are movin
 * [DevOps Barcelona slides](https://chadell.github.io/slides/180410_devopsbarcelona/)
 
 ## Linux
-------
+
+-----
 
 ### Blogs
 
@@ -201,7 +197,8 @@ Keeping track of your personal development is quite difficult when you are movin
 ### Outputs
 
 ## Software Engineering & Coding
-------
+
+-----
 
 ### Coding projects
 
@@ -245,7 +242,8 @@ Keeping track of your personal development is quite difficult when you are movin
 
 
 ## Culture
-------
+
+-----
 
 ### Blogs
 
@@ -266,4 +264,3 @@ Keeping track of your personal development is quite difficult when you are movin
 ### Outputs
 
 * [DevOps Training, spanish](https://bitbucket.org/dcaba/devops-training/)
-
