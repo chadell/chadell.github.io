@@ -13,7 +13,6 @@ Keeping track of your personal development is quite difficult when you are movin
 ### 2018 Q2 Goals (pending)
 
 * [Workshop about StackStorm for BCN SDN Meetup](https://github.com/bcn-sdn-meetup/st2-workshop)
-* Setup a Guifi.net RF wireless network
 * [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 * [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
 * Publish DevOps course in GitHub
@@ -37,8 +36,6 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Integration of a Go service with systemd](https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation)
 * [dNOS: Another Open Source Network Operating System](https://blog.siliconloons.com/posts/2018-03-14-dnos-and-openswitch/)
 * [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html)
-* [Recursive functions in Python](https://realpython.com/python-thinking-recursively/)
-* [Play around with AWS & GCP network automation](https://cloud.google.com/solutions/automated-network-deployment-multicloud)
 * [Serverless is eating the world](https://read.acloud.guru/serverless-is-eating-the-stack-and-people-are-freaking-out-and-they-should-be-431a9e0db482)
 * [Measuring network performance](https://www.performancevision.com/blog/measuring-network-performance-links-between-latency-throughput-packet-loss/)
 * [Packetbeat](https://www.elastic.co/products/beats/packetbeat)
@@ -234,6 +231,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Web developer security checklist](https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56)
 * [Python cheatsheet](https://gto76.github.io/python-cheatsheet/)
 * [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
+* [Recursive functions in Python](https://realpython.com/python-thinking-recursively/)
 
 
 ### Outputs
