@@ -29,7 +29,6 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Flask tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [TCP Series](https://networkwalk.blog/2017/10/30/tcp-talk-series-i/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrvhDQpv2QdimZkQG1fOO%2FQ%3D%3D)
 * [Engineering Egress wirth Edge Fabric](https://research.fb.com/wp-content/uploads/2017/08/sigcomm17-final177-2billion.pdf)
-* [BPF comes to firewalls](https://lwn.net/Articles/747551/)
 * Reactive Microservices Architecture o'reilly
 * Securing Microservices APIs o'reilly
 * The Automated traffic handbook o'reilly
@@ -48,7 +47,6 @@ Keeping track of your personal development is quite difficult when you are movin
     * [Facebook commodity network](https://ripe76.ripe.net/wp-content/uploads/presentations/55-RichardSheehan_Facebook_CommodityNetworks.pdf)
     * [ARTEMIS: Neutralizing BGP Hijacking within a Minute](https://ripe76.ripe.net/wp-content/uploads/presentations/7-ARTEMIS_RIPE76_Routing_WG.pdf)
     * [SRv6 Network Programming](https://ripe76.ripe.net/wp-content/uploads/presentations/18-20180514_SRv6_RIPE.pdf)
-* [Lessons Learned — A Year Of Going “Fully Serverless” In Production](https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f)
 * [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5?mkt_tok=eyJpIjoiTW1NeFl6bG1Zek13WkRFNSIsInQiOiJ0SWtST09KV0hCUytMQnZLaUhzV090R1prTk5FdWhlNTZqREpmWGZLOFJBc1lhRnJuVlVTaXNIODg1WVA2R204dmpTcm52YjFqWFczQVdwK3R4WlU3SThmaWw3ZWdtdU1WNytUUXlPSlBVVGFzK2FSaE94Yk4xNjF4SzNmeWRRMSJ9)
 * [Stateless datacenter load-balancing with Beamer](https://blog.acolyer.org/2018/05/03/stateless-datacenter-load-balancing-with-beamer/)
 * [Open-sourcing Katran, a scalable network load balancer](https://code.facebook.com/posts/1906146702752923)
@@ -59,6 +57,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Self-renewing Let’s Encrypt wildcard certificates in Kubernetes for internal domains](https://medium.com/infrastructure-adventures/self-renewing-lets-encrypt-wildcard-certificates-in-kubernetes-for-internal-domains-part-i-dns-ea788eb3dbf9)
 * [Internet Edge Peering - Current Practice](https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/)
 * [Network Labs Using Nested Virtualization in the Cloud](http://www.brianlinkletter.com/network-labs-using-nested-virtualization-in-the-cloud/)
+* [https://scrty.io/](https://scrty.io/)
 
 ## Networking
 
@@ -189,6 +188,8 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Monitoring and Tuning the Linux Networking Stack](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
 * [Dive into BPF: a list of reading material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
 * [Coping with the TCP TIME-WAIT state on busy Linux servers](https://vincent.bernat.im/en/blog/2014-tcp-time-wait-state-linux)
+* [BPF comes to firewalls](https://lwn.net/Articles/747551/)
+
 
 
 ### Outputs
