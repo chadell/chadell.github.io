@@ -42,11 +42,12 @@ Keeping track of your personal development is quite difficult when you are movin
     * [BGP Flexibility and… Its Consequences](https://ripe76.ripe.net/wp-content/uploads/presentations/37-ripe76.azimov.pdf)
     * [Why are we still seeing DDOS traffic ??](https://ripe76.ripe.net/wp-content/uploads/presentations/14-RIPE76-preso.pdf)
     * [TCP and BBR](https://ripe76.ripe.net/wp-content/uploads/presentations/10-2018-05-15-bbr.pdf)
-    * [Rebuilding a network data pipeline](https://ripe76.ripe.net/wp-content/uploads/presentations/46-RIPE76-NetworkPipeline-2.pdf)
     * [Event-driven Network Automation and Orchestration](https://ripe76.ripe.net/wp-content/uploads/presentations/17-RIPE76_-Event-driven-network-automation-and-orchestration.pdf)
     * [Facebook commodity network](https://ripe76.ripe.net/wp-content/uploads/presentations/55-RichardSheehan_Facebook_CommodityNetworks.pdf)
     * [ARTEMIS: Neutralizing BGP Hijacking within a Minute](https://ripe76.ripe.net/wp-content/uploads/presentations/7-ARTEMIS_RIPE76_Routing_WG.pdf)
     * [SRv6 Network Programming](https://ripe76.ripe.net/wp-content/uploads/presentations/18-20180514_SRv6_RIPE.pdf)
+    * [Promoting the Promise of Programmable Packet Processing with P4](https://ripe76.ripe.net/archives/video/28)
+    * [Internet Noise (Announcing 1.1.1.0/24)](https://ripe76.ripe.net/wp-content/uploads/presentations/47-Internet-noise-1.pdf)
 * [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5?mkt_tok=eyJpIjoiTW1NeFl6bG1Zek13WkRFNSIsInQiOiJ0SWtST09KV0hCUytMQnZLaUhzV090R1prTk5FdWhlNTZqREpmWGZLOFJBc1lhRnJuVlVTaXNIODg1WVA2R204dmpTcm52YjFqWFczQVdwK3R4WlU3SThmaWw3ZWdtdU1WNytUUXlPSlBVVGFzK2FSaE94Yk4xNjF4SzNmeWRRMSJ9)
 * [Stateless datacenter load-balancing with Beamer](https://blog.acolyer.org/2018/05/03/stateless-datacenter-load-balancing-with-beamer/)
 * [Open-sourcing Katran, a scalable network load balancer](https://code.facebook.com/posts/1906146702752923)
@@ -58,6 +59,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Internet Edge Peering - Current Practice](https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/)
 * [Network Labs Using Nested Virtualization in the Cloud](http://www.brianlinkletter.com/network-labs-using-nested-virtualization-in-the-cloud/)
 * [https://scrty.io/](https://scrty.io/)
+* [30 Linux System Monitoring Tools](https://www.cyberciti.biz/tips/top-linux-monitoring-tools.html)
 
 ## Networking
 
@@ -113,6 +115,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [BGP on the wire](http://thomas.mangin.com/data/pdf/UKNOF%2015%20-%20Mangin%20-%20Naked%20BGP.pdf)
 * [OSS BGP Implementations](https://github.com/Exa-Networks/exabgp/wiki/Other-OSS-BGP-implementations)
 * [DNS and Tor](https://blog.cloudflare.com/welcome-hidden-resolver/)
+* [Rebuilding a network data pipeline](https://ripe76.ripe.net/wp-content/uploads/presentations/46-RIPE76-NetworkPipeline-2.pdf)
 
 ### Outputs
 
