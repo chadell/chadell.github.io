@@ -23,10 +23,6 @@ Keeping track of your personal development is quite difficult when you are movin
 
 ### Backlog
 
-* [Book Designing Data-Intensive Applications](https://dataintensive.net/)
-* [CNI Plugin for K8S](https://github.com/aws/amazon-vpc-cni-k8s/blob/master/proposals/cni-proposal.md)
-* [Learn K8S the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-* [Flask tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [TCP Series](https://networkwalk.blog/2017/10/30/tcp-talk-series-i/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrvhDQpv2QdimZkQG1fOO%2FQ%3D%3D)
 * [Engineering Egress wirth Edge Fabric](https://research.fb.com/wp-content/uploads/2017/08/sigcomm17-final177-2billion.pdf)
 * Reactive Microservices Architecture o'reilly
@@ -48,7 +44,6 @@ Keeping track of your personal development is quite difficult when you are movin
     * [SRv6 Network Programming](https://ripe76.ripe.net/wp-content/uploads/presentations/18-20180514_SRv6_RIPE.pdf)
     * [Promoting the Promise of Programmable Packet Processing with P4](https://ripe76.ripe.net/archives/video/28)
     * [Internet Noise (Announcing 1.1.1.0/24)](https://ripe76.ripe.net/wp-content/uploads/presentations/47-Internet-noise-1.pdf)
-    * [CLOS - Randy Bush](https://ripe76.ripe.net/wp-content/uploads/presentations/30-180514.ripe-clos.pdf)
 * [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5?mkt_tok=eyJpIjoiTW1NeFl6bG1Zek13WkRFNSIsInQiOiJ0SWtST09KV0hCUytMQnZLaUhzV090R1prTk5FdWhlNTZqREpmWGZLOFJBc1lhRnJuVlVTaXNIODg1WVA2R204dmpTcm52YjFqWFczQVdwK3R4WlU3SThmaWw3ZWdtdU1WNytUUXlPSlBVVGFzK2FSaE94Yk4xNjF4SzNmeWRRMSJ9)
 * [Stateless datacenter load-balancing with Beamer](https://blog.acolyer.org/2018/05/03/stateless-datacenter-load-balancing-with-beamer/)
 * [Open-sourcing Katran, a scalable network load balancer](https://code.facebook.com/posts/1906146702752923)
@@ -56,10 +51,15 @@ Keeping track of your personal development is quite difficult when you are movin
 * [A warm welcome to DNS](https://powerdns.org/hello-dns/)
 * [NetDevOps Blog](https://netdevops.io/2018/06/07/hierarchical-configuration-part-1.html)
 * [Self-renewing Let’s Encrypt wildcard certificates in Kubernetes for internal domains](https://medium.com/infrastructure-adventures/self-renewing-lets-encrypt-wildcard-certificates-in-kubernetes-for-internal-domains-part-i-dns-ea788eb3dbf9)
-* [Internet Edge Peering - Current Practice](https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/)
 * [Network Labs Using Nested Virtualization in the Cloud](http://www.brianlinkletter.com/network-labs-using-nested-virtualization-in-the-cloud/)
 * [https://scrty.io/](https://scrty.io/)
 * [30 Linux System Monitoring Tools](https://www.cyberciti.biz/tips/top-linux-monitoring-tools.html)
+* Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network
+* Openfabric
+* [Book Designing Data-Intensive Applications](https://dataintensive.net/)
+* [CNI Plugin for K8S](https://github.com/aws/amazon-vpc-cni-k8s/blob/master/proposals/cni-proposal.md)
+* [Learn K8S the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+* [Flask tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ## Networking
 
@@ -116,6 +116,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [OSS BGP Implementations](https://github.com/Exa-Networks/exabgp/wiki/Other-OSS-BGP-implementations)
 * [DNS and Tor](https://blog.cloudflare.com/welcome-hidden-resolver/)
 * [Rebuilding a network data pipeline](https://ripe76.ripe.net/wp-content/uploads/presentations/46-RIPE76-NetworkPipeline-2.pdf)
+* [Internet Edge Peering - Current Practice](https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/)
 
 ### Outputs
 
