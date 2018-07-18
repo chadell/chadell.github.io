@@ -118,6 +118,10 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Rebuilding a network data pipeline](https://ripe76.ripe.net/wp-content/uploads/presentations/46-RIPE76-NetworkPipeline-2.pdf)
 * [Internet Edge Peering - Current Practice](https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/)
 
+### Resources
+
+* [Protocol Cheat Sheets](https://ipcisco.com/protocol-cheat-sheets/)
+
 ### Outputs
 
 * [GORE 19 Presentation](https://chadell.github.io/slides/170406_gore19/)
