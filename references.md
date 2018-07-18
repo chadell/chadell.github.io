@@ -241,6 +241,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Python cheatsheet](https://gto76.github.io/python-cheatsheet/)
 * [An API Gateway is not the new Unicorn](http://www.krakend.io/blog/what-is-an-api-gateway/)
 * [Recursive functions in Python](https://realpython.com/python-thinking-recursively/)
+* [Why is Python so slow?](https://medium.com/@anthonypjshaw/why-is-python-so-slow-e5074b6fe55b)
 
 
 ### Outputs
