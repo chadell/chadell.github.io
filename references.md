@@ -29,11 +29,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * Securing Microservices APIs o'reilly
 * The Automated traffic handbook o'reilly
 * [Integration of a Go service with systemd](https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation)
-* [dNOS: Another Open Source Network Operating System](https://blog.siliconloons.com/posts/2018-03-14-dnos-and-openswitch/)
 * [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html)
-* [Serverless is eating the world](https://read.acloud.guru/serverless-is-eating-the-stack-and-people-are-freaking-out-and-they-should-be-431a9e0db482)
-* [Measuring network performance](https://www.performancevision.com/blog/measuring-network-performance-links-between-latency-throughput-packet-loss/)
-* [Packetbeat](https://www.elastic.co/products/beats/packetbeat)
 * RIPE76 presentations:
     * [BGP Flexibility and… Its Consequences](https://ripe76.ripe.net/wp-content/uploads/presentations/37-ripe76.azimov.pdf)
     * [Why are we still seeing DDOS traffic ??](https://ripe76.ripe.net/wp-content/uploads/presentations/14-RIPE76-preso.pdf)
@@ -44,7 +40,6 @@ Keeping track of your personal development is quite difficult when you are movin
     * [SRv6 Network Programming](https://ripe76.ripe.net/wp-content/uploads/presentations/18-20180514_SRv6_RIPE.pdf)
     * [Promoting the Promise of Programmable Packet Processing with P4](https://ripe76.ripe.net/archives/video/28)
     * [Internet Noise (Announcing 1.1.1.0/24)](https://ripe76.ripe.net/wp-content/uploads/presentations/47-Internet-noise-1.pdf)
-* [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5?mkt_tok=eyJpIjoiTW1NeFl6bG1Zek13WkRFNSIsInQiOiJ0SWtST09KV0hCUytMQnZLaUhzV090R1prTk5FdWhlNTZqREpmWGZLOFJBc1lhRnJuVlVTaXNIODg1WVA2R204dmpTcm52YjFqWFczQVdwK3R4WlU3SThmaWw3ZWdtdU1WNytUUXlPSlBVVGFzK2FSaE94Yk4xNjF4SzNmeWRRMSJ9)
 * [Stateless datacenter load-balancing with Beamer](https://blog.acolyer.org/2018/05/03/stateless-datacenter-load-balancing-with-beamer/)
 * [Open-sourcing Katran, a scalable network load balancer](https://code.facebook.com/posts/1906146702752923)
 * [Website development as a sysadmin](https://medium.com/devops-faith/website-development-as-a-sysadmin-848e7ec4b019)
@@ -167,6 +162,7 @@ Keeping track of your personal development is quite difficult when you are movin
 ### Resources
 
 * [Docker network trouble-shooting swiss-army container](https://github.com/nicolaka/netshoot)
+* [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5?mkt_tok=eyJpIjoiTW1NeFl6bG1Zek13WkRFNSIsInQiOiJ0SWtST09KV0hCUytMQnZLaUhzV090R1prTk5FdWhlNTZqREpmWGZLOFJBc1lhRnJuVlVTaXNIODg1WVA2R204dmpTcm52YjFqWFczQVdwK3R4WlU3SThmaWw3ZWdtdU1WNytUUXlPSlBVVGFzK2FSaE94Yk4xNjF4SzNmeWRRMSJ9)
 
 ### Outputs
 
