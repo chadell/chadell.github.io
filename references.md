@@ -10,16 +10,11 @@ permalink: /refs/
 
 Keeping track of your personal development is quite difficult when you are moving from one topic to another. This repository is just a way to remember the best materials I've been using/creating since 2016 for learning and fun.
 
-### 2018 Q2 Goals (pending)
-
-* [Workshop about StackStorm for BCN SDN Meetup](https://github.com/bcn-sdn-meetup/st2-workshop)
-* [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
-* [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
-* Publish DevOps course in GitHub
+#
 
 ### 2018 Q3 Goals (wip)
 
-* Book Computer Networking Problems and Solutions
+
 
 ### Backlog
 
@@ -55,6 +50,16 @@ Keeping track of your personal development is quite difficult when you are movin
 * [CNI Plugin for K8S](https://github.com/aws/amazon-vpc-cni-k8s/blob/master/proposals/cni-proposal.md)
 * [Learn K8S the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Flask tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [Get Started with Istio and Kubernetes](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
+* [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
+* [Improve your speaking](https://conorneill.com/improve-your-speaking/)
+* [A collection of The Morning Paper posts relating to containers, operating systems etc](https://gist.github.com/acolyer/23043b422046803d0a78ceb934fa8cc0)
+* [Introducing the 🚀 Routinator 3000](https://medium.com/nlnetlabs/introducing-the-routinator-3000-2a234d455b2b)
+* [Systems @Scale 2018 recap](https://code.fb.com/core-data/systems-scale-2018-recap/)
+* [Book Managing you boss](https://hbr.org/product/managing-your-boss-harvard-business-review-classics/2288E-KND-ENG)
+* [Julia Evans Net Eng](https://jvns.ca/blog/2018/07/12/netdev-day-2--moving-away-from--as-fast-as-possible/)
+* [ARTEMIS — neutralizing BGP hijacking within a minute](https://blog.apnic.net/2018/07/19/artemis-neutralizing-bgp-hijacking-within-a-minute/)
+
 
 ## Networking
 
@@ -87,12 +92,15 @@ Keeping track of your personal development is quite difficult when you are movin
 * [TCP/IP Volumen II, CCIE](http://www.ciscopress.com/store/routing-tcp-ip-volume-ii-ccie-professional-development-9781587054709)
 * [High Performance Browser Networking](https://hpbn.co/)
 * [Book Network Programmability and Automation](http://shop.oreilly.com/product/0636920042082.do)
+* Computer Networking Problems and Solutions(https://www.amazon.com/Computer-Networking-Problems-Solutions-innovative/dp/1587145049)
+
 
 ### Courses
 
 * [RIPE IPv6 and BGP](https://www.ripe.net/support/training/courses/bgp)
 * [Cloud Networking](https://www.coursera.org/learn/cloud-networking)
 * [Cumulus Webinars](https://cumulusnetworks.com/learn/open-networking-webinars/)
+* [Master Class in Internet Networking](https://www-senki-org.cdn.ampproject.org/c/www.senki.org/master-class-in-internet-networking-free/amp/)
 
 ### Conferences
 
@@ -125,6 +133,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Netnod 18 video](https://www.youtube.com/watch?v=TMKG8dww9Fc)
 * [Network Automation Workshop 101 slides](https://chadell.github.io/slides/180515_workshopansible/#/)
 * [Network Automation Workshop 101 scenario](https://github.com/chadell/ansible-cumulus-vyos)
+* [Workshop about StackStorm for BCN SDN Meetup](https://github.com/bcn-sdn-meetup/st2-workshop)
 
 
 ## Cloud and Containers
@@ -218,6 +227,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Pro Python Best Practices - Debugging, Testing and Maintenance](https://www.apress.com/la/book/9781484222409)
 * [Site Reliability Engineering](http://shop.oreilly.com/product/0636920041528.do)
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
+* [SRE](https://services.google.com/fh/files/misc/the-site-reliability-workbook-next18.pdf)
 
 ### Courses
 
