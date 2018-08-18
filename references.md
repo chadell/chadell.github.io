@@ -59,6 +59,9 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Book Managing you boss](https://hbr.org/product/managing-your-boss-harvard-business-review-classics/2288E-KND-ENG)
 * [Julia Evans Net Eng](https://jvns.ca/blog/2018/07/12/netdev-day-2--moving-away-from--as-fast-as-possible/)
 * [ARTEMIS — neutralizing BGP hijacking within a minute](https://blog.apnic.net/2018/07/19/artemis-neutralizing-bgp-hijacking-within-a-minute/)
+* https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-birge-lee.pdf
+* https://www.potaroo.net/ispcol/2018-07/secbgp.html
+* https://githubengineering.com/glb-director-open-source-load-balancer/
 
 
 ## Networking
