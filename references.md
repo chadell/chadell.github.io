@@ -14,6 +14,7 @@ Keeping track of your personal development is quite difficult when you are movin
 
 ### 2018 Q3 Goals (wip)
 
+* [Book Managing you boss](https://hbr.org/product/managing-your-boss-harvard-business-review-classics/2288E-KND-ENG)
 
 
 ### Backlog
@@ -54,13 +55,8 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Meetup Docker Networking](https://github.com/docker-barcelona/speakers/issues/2#issuecomment-362242768)
 * [Improve your speaking](https://conorneill.com/improve-your-speaking/)
 * [A collection of The Morning Paper posts relating to containers, operating systems etc](https://gist.github.com/acolyer/23043b422046803d0a78ceb934fa8cc0)
-* [Introducing the 🚀 Routinator 3000](https://medium.com/nlnetlabs/introducing-the-routinator-3000-2a234d455b2b)
 * [Systems @Scale 2018 recap](https://code.fb.com/core-data/systems-scale-2018-recap/)
-* [Book Managing you boss](https://hbr.org/product/managing-your-boss-harvard-business-review-classics/2288E-KND-ENG)
-* [Julia Evans Net Eng](https://jvns.ca/blog/2018/07/12/netdev-day-2--moving-away-from--as-fast-as-possible/)
 * [ARTEMIS — neutralizing BGP hijacking within a minute](https://blog.apnic.net/2018/07/19/artemis-neutralizing-bgp-hijacking-within-a-minute/)
-* https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-birge-lee.pdf
-* https://www.potaroo.net/ispcol/2018-07/secbgp.html
 * https://githubengineering.com/glb-director-open-source-load-balancer/
 
 
@@ -123,6 +119,8 @@ Keeping track of your personal development is quite difficult when you are movin
 * [DNS and Tor](https://blog.cloudflare.com/welcome-hidden-resolver/)
 * [Rebuilding a network data pipeline](https://ripe76.ripe.net/wp-content/uploads/presentations/46-RIPE76-NetworkPipeline-2.pdf)
 * [Internet Edge Peering - Current Practice](https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/)
+* [Bamboozling Certificate Authorities with BGP](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-birge-lee.pdf)
+* [An Update on Securing BGP from IETF 102](https://www.potaroo.net/ispcol/2018-07/secbgp.html)
 
 ### Resources
 
