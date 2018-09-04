@@ -125,6 +125,7 @@ Keeping track of your personal development is quite difficult when you are movin
 ### Resources
 
 * [Protocol Cheat Sheets](https://ipcisco.com/protocol-cheat-sheets/)
+* [The Internet Peering Playbook](http://drpeering.net/HTML_IPP/ipptoc.html)
 
 ### Outputs
 
