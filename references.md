@@ -276,6 +276,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Presentation tips 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw)
 * [Presentation tips 2](http://www.youtube.com/watch?v=gcOP4WQfJl4)
 * [HTML slides tricks](http://huffn.github.io/htmlApprentice/)
+* [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
 
 ### Outputs
 
