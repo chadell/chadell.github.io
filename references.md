@@ -12,17 +12,20 @@ Keeping track of your personal development is quite difficult when you are movin
 
 #
 
-### 2018 Q3 Goals (wip)
+### 2019 Q1
 
-* [Book Managing you boss](https://hbr.org/product/managing-your-boss-harvard-business-review-classics/2288E-KND-ENG)
+* [VPP tutorial](https://wiki.fd.io/view/VPP/Progressive_VPP_Tutorial)
+* Linux Development fundamentals: Self Training
+* 7 Habits of high effective people
+* [BGP Security features](https://blog.benjojo.co.uk/post/are-bgps-security-features-working-yet-rpki)
 
 
 ### Backlog
 
 * [TCP Series](https://networkwalk.blog/2017/10/30/tcp-talk-series-i/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrvhDQpv2QdimZkQG1fOO%2FQ%3D%3D)
 * [Engineering Egress wirth Edge Fabric](https://research.fb.com/wp-content/uploads/2017/08/sigcomm17-final177-2billion.pdf)
-* Reactive Microservices Architecture o'reilly
-* Securing Microservices APIs o'reilly
+* Book: Reactive Microservices Architecture o'reilly
+* Book: Securing Microservices APIs o'reilly
 * The Automated traffic handbook o'reilly
 * [Integration of a Go service with systemd](https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation)
 * [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html)
@@ -58,6 +61,11 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Systems @Scale 2018 recap](https://code.fb.com/core-data/systems-scale-2018-recap/)
 * [ARTEMIS — neutralizing BGP hijacking within a minute](https://blog.apnic.net/2018/07/19/artemis-neutralizing-bgp-hijacking-within-a-minute/)
 * https://githubengineering.com/glb-director-open-source-load-balancer/
+* [Gremlin Chaos Engineering](https://help.gremlin.com/)
+* [Hacking Basic Pentesting](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-challenge/)
+* [Capturing Packets in Linux at a Speed of Millions of Packets per Second without Using Third Party Libraries](https://kukuruku.co/post/capturing-packets-in-linux-at-a-speed-of-millions-of-packets-per-second-without-using-third-party-libraries/)
+* [Hyperswarm](https://pfrazee.hashbase.io/blog/hyperswarm)
+* Book: Seeking Sre: Conversations about Running Production Systems at Scale
 
 
 ## Networking
@@ -121,6 +129,7 @@ Keeping track of your personal development is quite difficult when you are movin
 * [Internet Edge Peering - Current Practice](https://xrdocs.io/design/blogs/2017-08-01-internet-edge-peering-current-practice/)
 * [Bamboozling Certificate Authorities with BGP](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-birge-lee.pdf)
 * [An Update on Securing BGP from IETF 102](https://www.potaroo.net/ispcol/2018-07/secbgp.html)
+* [How to be a newtork engineer in a Programmable Age / DEVNET](https://www.netacad.com/sites/default/files/images/careers/Webinars/DevNet2/how_to_be_a_network_engineer_in_a_programmable_age.pdf)
 
 ### Resources
 
@@ -197,6 +206,7 @@ Keeping track of your personal development is quite difficult when you are movin
 ### Courses
 
 * [LPIC-1](https://cloudacademy.com/library/certifications/courses/)
+* Understanding Linux Networking
 
 ### Articles
 
@@ -266,6 +276,7 @@ Keeping track of your personal development is quite difficult when you are movin
 ### Books
 
 * [Lead with respect](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=386)
+* [Book Managing you boss](https://hbr.org/product/managing-your-boss-harvard-business-review-classics/2288E-KND-ENG)
 
 ### Courses
 
