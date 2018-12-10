@@ -15,6 +15,7 @@ Keeping track of your personal development is quite difficult when you are movin
 ### 2019 Q1
 
 * [VPP tutorial](https://wiki.fd.io/view/VPP/Progressive_VPP_Tutorial)
+* [VPP resource](https://blogs.cisco.com/sp/a-bigger-helping-of-internet-please)
 * Linux Development fundamentals: Self Training
 * 7 Habits of high effective people
 * [BGP Security features](https://blog.benjojo.co.uk/post/are-bgps-security-features-working-yet-rpki)
